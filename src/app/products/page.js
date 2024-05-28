@@ -130,7 +130,7 @@ export default function Home() {
               onClick={handleCloseNavMenu}
               sx={{ my: 2, color: 'white', display: 'block' }}
             >
-              <a href='http://localhost:3000//ninos'>Niños</a>
+              <a href='http://localhost:3000//ninos'>Niñosss</a>
             </Button>
             <Button
               onClick={handleCloseNavMenu}
